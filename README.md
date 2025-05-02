@@ -1,2 +1,2 @@
 # WhatsApp_System_Design
-Architecture diagram for the URL shortener system
+This document outlines the system design for a URL Shortener service similar to Bitly or TinyURL. The system supports URL shortening, redirection, and analytics.
